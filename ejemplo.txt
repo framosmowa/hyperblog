@@ -1,3 +1,7 @@
 primera linea
 segunda linea modificada
 tercera linea porfin
+
+estilos:{
+  cabecera: rojo
+}
