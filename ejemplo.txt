@@ -4,5 +4,5 @@ tercera linea porfin
 
 estilos:{
   cabecera: azul
-  parrafo: curier
+  parrafo: curier new
 }
